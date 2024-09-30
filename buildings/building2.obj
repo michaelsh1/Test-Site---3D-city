@@ -1,6 +1,6 @@
 # This file uses centimeters as units for non-parametric coordinates.
 
-mtllib 001.mtl
+mtllib building2.mtl
 g default
 v -4.836278 5.859878 4.836278
 v 4.836278 5.859878 4.836278
